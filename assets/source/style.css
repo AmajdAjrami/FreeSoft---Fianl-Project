@@ -1,0 +1,591 @@
+* {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+}
+
+header .header-top {
+  background-color: #ffffff;
+}
+header .header-top .navbar-brand {
+  font-size: 25px;
+  color: #6d6e70;
+}
+header .header-top .navbar-brand img {
+  margin-top: -18px;
+}
+header .header-top nav .login-btn {
+  color: #ffffff;
+  background-color: #99c50a;
+  border-color: #99c50a;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 20px;
+  margin-left: 50px;
+}
+
+main .slider .carousel-inner .carousel-item .slider-content {
+  position: absolute;
+  width: 50%;
+  left: 50%;
+  top: 30%;
+  z-index: 1;
+  color: #ffffff;
+  margin-left: -25%;
+  text-align: center;
+  font-size: 30px;
+}
+main .slider .carousel-inner .carousel-item .slider-content p {
+  font-size: 25px;
+}
+main .slider .carousel-inner .carousel-item .slider-content .member-btn {
+  color: #ffffff;
+  background-color: #99c50a;
+  border-color: #99c50a;
+  width: 220px;
+  height: 70px;
+}
+main .slider .carousel-control-next {
+  font-size: 40px;
+  margin-top: 450px;
+  margin-right: 20px;
+}
+main .slider .carousel-control-prev {
+  font-size: 40px;
+  margin-top: 450px;
+  margin-left: 1020px;
+}
+main .our-work {
+  margin-bottom: 160px;
+}
+main .our-work img {
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+main .our-work h3 {
+  text-transform: uppercase;
+  color: #515151;
+}
+main .our-work p {
+  color: #919191;
+}
+main .tabs .tab1 {
+  padding-bottom: 60px;
+  border-bottom: 2px solid #99c50a;
+}
+main .tabs .tab1:hover {
+  border-color: #99c50a;
+}
+main .tabs .tab2 {
+  padding-bottom: 60px;
+  border-bottom: 2px solid #e6e6e6;
+}
+main .tabs .tab2:hover {
+  border-color: #99c50a;
+}
+main .tabs .tab2:hover .btn2 {
+  background-color: #99c50a;
+}
+main .tabs .tab3 {
+  padding-bottom: 60px;
+  border-bottom: 2px solid #e6e6e6;
+}
+main .tabs .tab3:hover {
+  border-color: #99c50a;
+}
+main .tabs .tab3:hover .btn3 {
+  background-color: #99c50a;
+}
+main .tabs .btn1 {
+  color: #ffffff;
+  background-color: #99c50a;
+  border-color: #99c50a;
+  margin-top: -10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 90px;
+}
+main .tabs .btn2 {
+  margin-top: -10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 25px;
+  color: #ffffff;
+  background-color: #5f5f5f;
+}
+main .tabs .btn3 {
+  margin-top: -10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  color: #ffffff;
+  background-color: #5f5f5f;
+}
+main .tabs span {
+  font-size: 30px;
+  color: #656565;
+}
+main .tabs .content img {
+  margin: 80px 0 0 180px;
+}
+main .tabs .content h4 {
+  margin: 70px 0 30px 10px;
+  color: #99c50a;
+}
+main .tabs .content p {
+  font-size: 14px;
+  margin: 0 0 150px 10px;
+  color: #919191;
+}
+main .find {
+  margin-bottom: 80px;
+}
+main .find .Find-Properties {
+  background-color: #e2f8ff;
+  padding: 50px;
+}
+main .find .Find-Properties .img1 {
+  margin: 20px 0 0 60px;
+}
+main .find .Find-Properties .btn4 {
+  background-color: #26a6d1;
+  color: #ffffff;
+  padding: 13px 20px 13px 20px;
+  border-radius: 5px;
+}
+main .find .Find-Buyers {
+  background-color: #f5f9eb;
+  padding: 50px;
+}
+main .find .Find-Buyers .img2 {
+  margin: 40px 0 0 80px;
+}
+main .find .Find-Buyers .btn5 {
+  background-color: #99c50a;
+  color: #ffffff;
+  padding: 13px 20px 13px 20px;
+  border-radius: 5px;
+}
+main .Feature h2 {
+  color: #515151;
+  margin-left: 20px;
+}
+main .Feature p {
+  color: #8f8f8f;
+  display: inline-block;
+  margin-left: 20px;
+}
+main .Feature .btn6 {
+  background-color: #ffffff;
+  border-color: #b6b6b6;
+  color: #919191;
+  padding: 15px 15px 15px 15px;
+  border-radius: 10px;
+  float: right;
+  margin-top: -25px;
+}
+main .Feature .projects {
+  margin-bottom: 50px;
+}
+main .Feature .projects .project-1 .new {
+  width: 0;
+  height: 0;
+  border-top: 90px solid #99c50a;
+  border-right: 90px solid transparent;
+  float: left;
+  margin-top: -10px;
+  margin-left: -10px;
+  position: relative;
+}
+main .Feature .projects .project-1 .new h4 {
+  color: #ffffff;
+  margin-top: -53px;
+  margin-left: 17px;
+  transform: rotate(315deg);
+  font-size: 19px;
+}
+main .Feature .projects .project-1 .box {
+  border-radius: 11px 11px 0 0;
+  width: 100%;
+  height: 46.5%;
+  border: 1px solid #DDD;
+  border-bottom: 0;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 8px;
+  overflow: hidden;
+}
+main .Feature .projects .project-1 img {
+  margin-top: -96px;
+  width: 348px;
+  height: 320px;
+  object-fit: cover;
+}
+main .Feature .projects .project-1 .btn7 {
+  position: absolute;
+  left: 78%;
+  top: 35%;
+  z-index: 99;
+  color: #ffffff;
+  margin-left: -25%;
+  text-align: right;
+  font-size: 15px;
+  background-color: #26a6d1;
+}
+main .Feature .projects .project-1 .btn7 span {
+  font-weight: bold;
+}
+main .Feature .projects .project-1 .content {
+  background-color: #f9f9f9;
+  margin-top: -25px;
+  padding-top: 20px;
+  border: 1px solid #e5e5e5;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+main .Feature .projects .project-1 .content h5 {
+  margin-left: 35px;
+}
+main .Feature .projects .project-1 .content p {
+  margin-left: 35px;
+  font-size: 13px;
+}
+main .Feature .projects .project-1 .content .progress {
+  width: 78%;
+  margin-left: 35px;
+  border-radius: 10px;
+}
+main .Feature .projects .project-1 .content .progress .progress-bar {
+  background-color: #99c50a;
+}
+main .Feature .projects .project-1 .content .p1 {
+  font-size: 13px;
+  margin-left: 35px;
+  color: #919191;
+}
+main .Feature .projects .project-1 .content .p2 {
+  font-size: 13px;
+  margin-right: 42px;
+  color: #919191;
+}
+main .Feature .projects .project-1 .content a {
+  text-decoration: none;
+}
+main .Feature .projects .project-1 .content a .p3 {
+  margin-left: 145px;
+  font-size: 16px;
+}
+main .Feature .projects .project-1 .content a i {
+  font-size: 25px;
+  margin-left: 10px;
+  color: #c0db65;
+}
+main .Feature .projects .project-2 .new {
+  width: 0;
+  height: 0;
+  border-top: 90px solid #99c50a;
+  border-right: 90px solid transparent;
+  float: left;
+  margin-top: -10px;
+  margin-left: -10px;
+  position: relative;
+}
+main .Feature .projects .project-2 .new h4 {
+  color: #ffffff;
+  margin-top: -53px;
+  margin-left: 17px;
+  transform: rotate(315deg);
+  font-size: 19px;
+}
+main .Feature .projects .project-2 .box {
+  border-radius: 11px 11px 0 0;
+  width: 100%;
+  height: 45%;
+  border: 1px solid #DDD;
+  border-bottom: 0;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 8px;
+  overflow: hidden;
+}
+main .Feature .projects .project-2 img {
+  margin-top: -96px;
+  width: 348px;
+  height: 310px;
+  object-fit: cover;
+}
+main .Feature .projects .project-2 .btn8 {
+  position: absolute;
+  left: 78%;
+  top: 35%;
+  z-index: 99;
+  color: #ffffff;
+  margin-left: -25%;
+  text-align: right;
+  font-size: 15px;
+  background-color: #26a6d1;
+}
+main .Feature .projects .project-2 .btn8 span {
+  font-weight: bold;
+}
+main .Feature .projects .project-2 .content {
+  background-color: #f9f9f9;
+  margin-top: -15px;
+  padding-top: 20px;
+  border: 1px solid #e5e5e5;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+main .Feature .projects .project-2 .content h5 {
+  margin-left: 35px;
+}
+main .Feature .projects .project-2 .content p {
+  margin-left: 35px;
+  font-size: 13px;
+}
+main .Feature .projects .project-2 .content .progress {
+  width: 78%;
+  margin-left: 35px;
+  border-radius: 10px;
+}
+main .Feature .projects .project-2 .content .progress .progress-bar {
+  background-color: #99c50a;
+}
+main .Feature .projects .project-2 .content .p1 {
+  font-size: 13px;
+  margin-left: 35px;
+  color: #919191;
+}
+main .Feature .projects .project-2 .content .p2 {
+  font-size: 13px;
+  margin-right: 42px;
+  color: #919191;
+}
+main .Feature .projects .project-2 .content a {
+  text-decoration: none;
+}
+main .Feature .projects .project-2 .content a .p3 {
+  margin-left: 145px;
+  font-size: 16px;
+}
+main .Feature .projects .project-2 .content a i {
+  font-size: 25px;
+  margin-left: 10px;
+  color: #c0db65;
+}
+main .Feature .projects .project-3 .new {
+  width: 0;
+  height: 0;
+  border-top: 90px solid #99c50a;
+  border-right: 90px solid transparent;
+  float: left;
+  margin-top: -10px;
+  margin-left: -10px;
+  position: relative;
+}
+main .Feature .projects .project-3 .new h4 {
+  color: #ffffff;
+  margin-top: -53px;
+  margin-left: 17px;
+  transform: rotate(315deg);
+  font-size: 19px;
+}
+main .Feature .projects .project-3 .box {
+  border-radius: 11px 11px 0 0;
+  width: 100%;
+  height: 45%;
+  border: 1px solid #DDD;
+  border-bottom: 0;
+  display: inline-block;
+  margin-right: 10px;
+  margin-top: 8px;
+  overflow: hidden;
+}
+main .Feature .projects .project-3 img {
+  margin-top: -96px;
+  width: 348px;
+  height: 310px;
+  object-fit: cover;
+}
+main .Feature .projects .project-3 .btn9 {
+  position: absolute;
+  left: 78%;
+  top: 35%;
+  z-index: 99;
+  color: #ffffff;
+  margin-left: -25%;
+  text-align: right;
+  font-size: 15px;
+  background-color: #26a6d1;
+}
+main .Feature .projects .project-3 .btn9 span {
+  font-weight: bold;
+}
+main .Feature .projects .project-3 .content {
+  background-color: #f9f9f9;
+  margin-top: -15px;
+  padding-top: 20px;
+  border: 1px solid #e5e5e5;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+main .Feature .projects .project-3 .content h5 {
+  margin-left: 35px;
+}
+main .Feature .projects .project-3 .content p {
+  margin-left: 35px;
+  font-size: 13px;
+}
+main .Feature .projects .project-3 .content .progress {
+  width: 78%;
+  margin-left: 35px;
+  border-radius: 10px;
+}
+main .Feature .projects .project-3 .content .progress .progress-bar {
+  background-color: #99c50a;
+}
+main .Feature .projects .project-3 .content .p1 {
+  font-size: 13px;
+  margin-left: 35px;
+  color: #919191;
+}
+main .Feature .projects .project-3 .content .p2 {
+  font-size: 13px;
+  margin-right: 42px;
+  color: #919191;
+}
+main .Feature .projects .project-3 .content a {
+  text-decoration: none;
+}
+main .Feature .projects .project-3 .content a .p3 {
+  margin-left: 145px;
+  font-size: 16px;
+}
+main .Feature .projects .project-3 .content a i {
+  font-size: 25px;
+  margin-left: 10px;
+  color: #c0db65;
+}
+
+.our-clients .content {
+  position: absolute;
+  top: 490%;
+  left: 33%;
+  z-index: 99;
+  margin-left: -25%;
+  text-align: right;
+}
+.our-clients h2 {
+  color: #99c50a;
+  font-weight: bold;
+  font-size: 38px;
+}
+.our-clients p {
+  color: #949494;
+}
+.our-clients .client-1 {
+  background-color: #ffffff;
+  width: 35%;
+  padding: 15px;
+  border-radius: 15px;
+  float: right;
+  margin-right: 100px;
+  margin-top: 120px;
+}
+.our-clients .client-1 .client-1-content h4 {
+  color: #99c50a;
+}
+.our-clients .client-1 .client-1-content p {
+  font-size: 12px;
+}
+.our-clients .client-1 .arrow-down-1::after {
+  display: block;
+  position: absolute;
+  bottom: -25px;
+  left: 65%;
+  margin-left: -30px;
+  content: "";
+  border: 25px solid transparent;
+  border-right: 25px solid #ffffff;
+  border-bottom: 0;
+  transform: rotate(180deg);
+}
+.our-clients .client-1-details {
+  position: absolute;
+  margin-top: 25%;
+  left: 60%;
+}
+.our-clients .client-1-details p {
+  display: inline-block;
+  color: #494949;
+  font-weight: bold;
+}
+.our-clients .client-2 {
+  background-color: #ffffff;
+  width: 35%;
+  padding: 15px;
+  border-radius: 15px;
+  float: left;
+  margin-left: 50px;
+  margin-top: 120px;
+}
+.our-clients .client-2 .client-2-content h4 {
+  color: #99c50a;
+}
+.our-clients .client-2 .client-2-content p {
+  font-size: 12px;
+}
+.our-clients .client-2 .arrow-down-2::after {
+  display: block;
+  position: absolute;
+  bottom: -25px;
+  left: 15%;
+  margin-left: -30px;
+  content: "";
+  border: 25px solid transparent;
+  border-right: 25px solid #ffffff;
+  border-bottom: 0;
+  transform: rotate(180deg);
+}
+.our-clients .client-2-details {
+  position: absolute;
+  margin-top: 25%;
+  left: 10%;
+}
+.our-clients .client-2-details p {
+  display: inline-block;
+  color: #494949;
+  font-weight: bold;
+}
+
+footer {
+  margin-top: 60px;
+}
+footer .partner1 {
+  margin-left: -10px;
+}
+footer .partner2, footer .partner3 {
+  margin-left: 80px;
+}
+footer .partner4 {
+  margin-left: 100px;
+}
+footer .partner5 {
+  margin-left: 30px;
+}
+footer .partner6 {
+  margin-left: 10px;
+}
+footer .partner7 {
+  margin-left: 120px;
+}
+footer .copy-right hr {
+  background-color: #ededed;
+  margin-bottom: 30px;
+}
+footer .copy-right p {
+  color: #848484;
+}
+
+/*# sourceMappingURL=style.css.map */

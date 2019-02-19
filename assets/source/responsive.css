@@ -1,0 +1,2169 @@
+@media (min-width: 360px) and (max-width: 374px) and (max-height: 820px) {
+  main .slider .carousel-inner .carousel-item .slider-content {
+    position: absolute;
+    width: 50%;
+    left: 50%;
+    top: 10%;
+    z-index: 1;
+    color: #ffffff;
+    margin-left: -25%;
+    text-align: center;
+    font-size: 30px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content h2 {
+    font-size: 18px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content p {
+    font-size: 15px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content .member-btn {
+    width: 100px;
+    height: 40px;
+    font-size: 8px;
+  }
+  main .our-work {
+    margin-bottom: 100px;
+  }
+  main .our-work img {
+    width: 50px;
+    height: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+  main .our-work h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #515151;
+  }
+  main .our-work p {
+    font-size: 14px;
+    color: #919191;
+  }
+  main .tabs .tab1 {
+    padding-bottom: 20px;
+    width: 31%;
+  }
+  main .tabs .tab1 button {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 8px;
+  }
+  main .tabs .tab1 span {
+    font-size: 11px;
+  }
+  main .tabs .tab2 {
+    padding-bottom: 20px;
+    width: 35%;
+  }
+  main .tabs .tab2 button {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 8px;
+  }
+  main .tabs .tab2 span {
+    font-size: 11px;
+  }
+  main .tabs .tab3 {
+    padding-bottom: 20px;
+    width: 34%;
+  }
+  main .tabs .tab3 button {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 8px;
+  }
+  main .tabs .tab3 span {
+    font-size: 11px;
+  }
+  main .tabs .content img {
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+  main .tabs .content h4 {
+    margin: 30px 0 30px 10px;
+  }
+  main .tabs .content p {
+    font-size: 14px;
+    margin: 0 0 100px 10px;
+    color: #919191;
+  }
+  main .find .Find-Properties .img1 {
+    margin: 20px 0 0 -10px;
+  }
+  main .find .Find-Properties h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Properties p {
+    font-size: 14px;
+  }
+  main .find .Find-Properties .btn4 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .find .Find-Buyers .img2 {
+    margin: 40px 0 0 -10px;
+  }
+  main .find .Find-Buyers h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Buyers p {
+    font-size: 14px;
+  }
+  main .find .Find-Buyers .btn5 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .Feature h2 {
+    font-size: 23px;
+  }
+  main .Feature p {
+    font-size: 13px;
+    margin-bottom: 40px;
+  }
+  main .Feature .btn6 {
+    padding: 10px 10px 10px 10px;
+    font-size: 13px;
+    margin-left: 20px;
+    float: left;
+  }
+  main .Feature .projects {
+    margin-bottom: 0px;
+  }
+  main .Feature .projects .project-1 {
+    left: 10%;
+  }
+  main .Feature .projects .project-1 .box {
+    height: 25%;
+    width: 80%;
+  }
+  main .Feature .projects .project-1 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-1 .content {
+    margin-top: -6px;
+    width: 80%;
+  }
+  main .Feature .projects .project-1 .content h5 {
+    font-size: 14px;
+  }
+  main .Feature .projects .project-1 .content p {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-1 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-1 .content .p1, main .Feature .projects .project-1 .content .p2 {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-1 .content a .p3 {
+    font-size: 13px;
+    margin-left: 100px;
+  }
+  main .Feature .projects .project-2 {
+    left: 10%;
+    margin-top: -120px;
+  }
+  main .Feature .projects .project-2 .box {
+    height: 25%;
+    width: 80%;
+  }
+  main .Feature .projects .project-2 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-2 .content {
+    margin-top: -6px;
+    width: 80%;
+  }
+  main .Feature .projects .project-2 .content h5 {
+    font-size: 14px;
+  }
+  main .Feature .projects .project-2 .content p {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-2 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-2 .content .p1, main .Feature .projects .project-2 .content .p2 {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-2 .content a .p3 {
+    font-size: 13px;
+    margin-left: 100px;
+  }
+  main .Feature .projects .project-3 {
+    left: 10%;
+    margin-top: -120px;
+  }
+  main .Feature .projects .project-3 .box {
+    height: 25%;
+    width: 80%;
+  }
+  main .Feature .projects .project-3 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-3 .content {
+    margin-top: -6px;
+    width: 80%;
+  }
+  main .Feature .projects .project-3 .content h5 {
+    font-size: 14px;
+  }
+  main .Feature .projects .project-3 .content p {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-3 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-3 .content .p1, main .Feature .projects .project-3 .content .p2 {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-3 .content a .p3 {
+    font-size: 13px;
+    margin-left: 100px;
+  }
+  main .our-clients .content {
+    top: 545%;
+  }
+  main .our-clients h2 {
+    font-size: 14px;
+    margin-right: 60px;
+  }
+  main .our-clients p {
+    font-size: 10px;
+    margin-right: 60px;
+    margin-top: -30px;
+  }
+  main .our-clients .client-1 {
+    display: none;
+  }
+  main .our-clients .client-1-details {
+    position: absolute;
+    margin-top: 5%;
+    left: 50%;
+  }
+  main .our-clients .client-1-details img {
+    width: 30px;
+    height: 30px;
+  }
+  main .our-clients .client-1-details p {
+    font-size: 8px;
+  }
+  main .our-clients .client-2 {
+    display: none;
+  }
+  main .our-clients .client-2-details {
+    position: absolute;
+    margin-top: 5%;
+    left: 10%;
+  }
+  main .our-clients .client-2-details img {
+    width: 30px;
+    height: 30px;
+  }
+  main .our-clients .client-2-details p {
+    font-size: 8px;
+  }
+  main footer {
+    margin-top: 20px;
+  }
+  main footer .partner1 {
+    margin-left: 20px;
+  }
+  main footer .partner1 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner2 {
+    margin-left: 100px;
+    margin-top: -30px;
+  }
+  main footer .partner2 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner3 {
+    margin-left: 180px;
+    margin-top: -30px;
+  }
+  main footer .partner3 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner4 {
+    margin-left: 260px;
+    margin-top: -30px;
+  }
+  main footer .partner4 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner5 {
+    margin-left: 70px;
+    margin-top: 20px;
+  }
+  main footer .partner5 img {
+    width: 30px;
+    height: 30px;
+  }
+  main footer .partner6 {
+    margin-left: 140px;
+    margin-top: -30px;
+  }
+  main footer .partner6 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner7 {
+    margin-left: 220px;
+    margin-top: -30px;
+  }
+  main footer .partner7 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .copy-right hr {
+    background-color: #ededed;
+    margin-bottom: 20px;
+  }
+  main footer .copy-right p {
+    color: #848484;
+    font-size: 13px;
+  }
+}
+@media (min-width: 375px) and (max-width: 400px) and (max-height: 820px) {
+  main .slider .carousel-inner .carousel-item .slider-content {
+    position: absolute;
+    width: 50%;
+    left: 50%;
+    top: 10%;
+    z-index: 1;
+    color: #ffffff;
+    margin-left: -25%;
+    text-align: center;
+    font-size: 30px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content h2 {
+    font-size: 18px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content p {
+    font-size: 15px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content .member-btn {
+    width: 100px;
+    height: 40px;
+    font-size: 8px;
+  }
+  main .our-work {
+    margin-bottom: 100px;
+  }
+  main .our-work img {
+    width: 50px;
+    height: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+  main .our-work h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #515151;
+  }
+  main .our-work p {
+    font-size: 14px;
+    color: #919191;
+  }
+  main .tabs .tab1 {
+    padding-bottom: 20px;
+    width: 31%;
+  }
+  main .tabs .tab1 button {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 8px;
+  }
+  main .tabs .tab1 span {
+    font-size: 11px;
+  }
+  main .tabs .tab2 {
+    padding-bottom: 20px;
+    width: 35%;
+  }
+  main .tabs .tab2 button {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 8px;
+  }
+  main .tabs .tab2 span {
+    font-size: 11px;
+  }
+  main .tabs .tab3 {
+    padding-bottom: 20px;
+    width: 34%;
+  }
+  main .tabs .tab3 button {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 8px;
+  }
+  main .tabs .tab3 span {
+    font-size: 11px;
+  }
+  main .tabs .content img {
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+  main .tabs .content h4 {
+    margin: 30px 0 30px 10px;
+  }
+  main .tabs .content p {
+    font-size: 14px;
+    margin: 0 0 100px 10px;
+    color: #919191;
+  }
+  main .find .Find-Properties .img1 {
+    margin: 20px 0 0 -10px;
+  }
+  main .find .Find-Properties h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Properties p {
+    font-size: 14px;
+  }
+  main .find .Find-Properties .btn4 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .find .Find-Buyers .img2 {
+    margin: 40px 0 0 -10px;
+  }
+  main .find .Find-Buyers h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Buyers p {
+    font-size: 14px;
+  }
+  main .find .Find-Buyers .btn5 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .Feature h2 {
+    font-size: 23px;
+  }
+  main .Feature p {
+    font-size: 13px;
+    margin-bottom: 40px;
+  }
+  main .Feature .btn6 {
+    padding: 10px 10px 10px 10px;
+    font-size: 13px;
+    margin-left: 20px;
+    float: left;
+  }
+  main .Feature .projects {
+    margin-bottom: 0px;
+  }
+  main .Feature .projects .project-1 {
+    left: 10%;
+  }
+  main .Feature .projects .project-1 .box {
+    height: 25%;
+    width: 80%;
+  }
+  main .Feature .projects .project-1 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-1 .content {
+    margin-top: -6px;
+    width: 80%;
+  }
+  main .Feature .projects .project-1 .content h5 {
+    font-size: 14px;
+  }
+  main .Feature .projects .project-1 .content p {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-1 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-1 .content .p1, main .Feature .projects .project-1 .content .p2 {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-1 .content a .p3 {
+    font-size: 13px;
+    margin-left: 100px;
+  }
+  main .Feature .projects .project-2 {
+    left: 10%;
+    margin-top: -120px;
+  }
+  main .Feature .projects .project-2 .box {
+    height: 25%;
+    width: 80%;
+  }
+  main .Feature .projects .project-2 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-2 .content {
+    margin-top: -6px;
+    width: 80%;
+  }
+  main .Feature .projects .project-2 .content h5 {
+    font-size: 14px;
+  }
+  main .Feature .projects .project-2 .content p {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-2 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-2 .content .p1, main .Feature .projects .project-2 .content .p2 {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-2 .content a .p3 {
+    font-size: 13px;
+    margin-left: 100px;
+  }
+  main .Feature .projects .project-3 {
+    left: 10%;
+    margin-top: -120px;
+  }
+  main .Feature .projects .project-3 .box {
+    height: 25%;
+    width: 80%;
+  }
+  main .Feature .projects .project-3 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-3 .content {
+    margin-top: -6px;
+    width: 80%;
+  }
+  main .Feature .projects .project-3 .content h5 {
+    font-size: 14px;
+  }
+  main .Feature .projects .project-3 .content p {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-3 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-3 .content .p1, main .Feature .projects .project-3 .content .p2 {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-3 .content a .p3 {
+    font-size: 13px;
+    margin-left: 100px;
+  }
+  main .our-clients .content {
+    top: 597%;
+  }
+  main .our-clients h2 {
+    font-size: 14px;
+    margin-right: 60px;
+  }
+  main .our-clients p {
+    font-size: 10px;
+    margin-right: 60px;
+    margin-top: -30px;
+  }
+  main .our-clients .client-1 {
+    display: none;
+  }
+  main .our-clients .client-1-details {
+    position: absolute;
+    margin-top: 5%;
+    left: 50%;
+  }
+  main .our-clients .client-1-details img {
+    width: 30px;
+    height: 30px;
+  }
+  main .our-clients .client-1-details p {
+    font-size: 8px;
+  }
+  main .our-clients .client-2 {
+    display: none;
+  }
+  main .our-clients .client-2-details {
+    position: absolute;
+    margin-top: 5%;
+    left: 10%;
+  }
+  main .our-clients .client-2-details img {
+    width: 30px;
+    height: 30px;
+  }
+  main .our-clients .client-2-details p {
+    font-size: 8px;
+  }
+  main footer {
+    margin-top: 20px;
+  }
+  main footer .partner1 {
+    margin-left: 20px;
+  }
+  main footer .partner1 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner2 {
+    margin-left: 100px;
+    margin-top: -30px;
+  }
+  main footer .partner2 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner3 {
+    margin-left: 180px;
+    margin-top: -30px;
+  }
+  main footer .partner3 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner4 {
+    margin-left: 260px;
+    margin-top: -30px;
+  }
+  main footer .partner4 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner5 {
+    margin-left: 70px;
+    margin-top: 20px;
+  }
+  main footer .partner5 img {
+    width: 30px;
+    height: 30px;
+  }
+  main footer .partner6 {
+    margin-left: 140px;
+    margin-top: -30px;
+  }
+  main footer .partner6 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner7 {
+    margin-left: 220px;
+    margin-top: -30px;
+  }
+  main footer .partner7 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .copy-right hr {
+    background-color: #ededed;
+    margin-bottom: 20px;
+  }
+  main footer .copy-right p {
+    color: #848484;
+    font-size: 13px;
+  }
+}
+@media (min-width: 401px) and (max-width: 420px) and (max-height: 740px) {
+  main .slider .carousel-inner .carousel-item .slider-content {
+    position: absolute;
+    width: 50%;
+    left: 50%;
+    top: 10%;
+    z-index: 1;
+    color: #ffffff;
+    margin-left: -25%;
+    text-align: center;
+    font-size: 30px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content h2 {
+    font-size: 18px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content p {
+    font-size: 15px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content .member-btn {
+    width: 100px;
+    height: 40px;
+    font-size: 8px;
+  }
+  main .our-work {
+    margin-bottom: 100px;
+  }
+  main .our-work img {
+    width: 50px;
+    height: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+  main .our-work h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #515151;
+  }
+  main .our-work p {
+    font-size: 14px;
+    color: #919191;
+  }
+  main .tabs .tab1 {
+    padding-bottom: 20px;
+    width: 31%;
+  }
+  main .tabs .tab1 button {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 8px;
+  }
+  main .tabs .tab1 span {
+    font-size: 11px;
+  }
+  main .tabs .tab2 {
+    padding-bottom: 20px;
+    width: 35%;
+  }
+  main .tabs .tab2 button {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 8px;
+  }
+  main .tabs .tab2 span {
+    font-size: 11px;
+  }
+  main .tabs .tab3 {
+    padding-bottom: 20px;
+    width: 34%;
+  }
+  main .tabs .tab3 button {
+    display: inline;
+    width: 25px;
+    height: 25px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 8px;
+  }
+  main .tabs .tab3 span {
+    font-size: 11px;
+  }
+  main .tabs .content img {
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+  main .tabs .content h4 {
+    margin: 30px 0 30px 10px;
+  }
+  main .tabs .content p {
+    font-size: 14px;
+    margin: 0 0 100px 10px;
+    color: #919191;
+  }
+  main .find .Find-Properties .img1 {
+    margin: 20px 0 0 -10px;
+  }
+  main .find .Find-Properties h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Properties p {
+    font-size: 14px;
+  }
+  main .find .Find-Properties .btn4 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .find .Find-Buyers .img2 {
+    margin: 40px 0 0 -10px;
+  }
+  main .find .Find-Buyers h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Buyers p {
+    font-size: 14px;
+  }
+  main .find .Find-Buyers .btn5 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .Feature h2 {
+    font-size: 23px;
+  }
+  main .Feature p {
+    font-size: 13px;
+    margin-bottom: 40px;
+  }
+  main .Feature .btn6 {
+    padding: 10px 10px 10px 10px;
+    font-size: 13px;
+    margin-left: 20px;
+    float: left;
+  }
+  main .Feature .projects {
+    margin-bottom: 0px;
+  }
+  main .Feature .projects .project-1 {
+    left: 10%;
+  }
+  main .Feature .projects .project-1 .box {
+    height: 25%;
+    width: 80%;
+  }
+  main .Feature .projects .project-1 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-1 .content {
+    margin-top: -6px;
+    width: 80%;
+  }
+  main .Feature .projects .project-1 .content h5 {
+    font-size: 14px;
+  }
+  main .Feature .projects .project-1 .content p {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-1 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-1 .content .p1, main .Feature .projects .project-1 .content .p2 {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-1 .content a .p3 {
+    font-size: 13px;
+    margin-left: 100px;
+  }
+  main .Feature .projects .project-2 {
+    left: 10%;
+    margin-top: -120px;
+  }
+  main .Feature .projects .project-2 .box {
+    height: 25%;
+    width: 80%;
+  }
+  main .Feature .projects .project-2 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-2 .content {
+    margin-top: -6px;
+    width: 80%;
+  }
+  main .Feature .projects .project-2 .content h5 {
+    font-size: 14px;
+  }
+  main .Feature .projects .project-2 .content p {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-2 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-2 .content .p1, main .Feature .projects .project-2 .content .p2 {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-2 .content a .p3 {
+    font-size: 13px;
+    margin-left: 100px;
+  }
+  main .Feature .projects .project-3 {
+    left: 10%;
+    margin-top: -120px;
+  }
+  main .Feature .projects .project-3 .box {
+    height: 25%;
+    width: 80%;
+  }
+  main .Feature .projects .project-3 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-3 .content {
+    margin-top: -6px;
+    width: 80%;
+  }
+  main .Feature .projects .project-3 .content h5 {
+    font-size: 14px;
+  }
+  main .Feature .projects .project-3 .content p {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-3 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-3 .content .p1, main .Feature .projects .project-3 .content .p2 {
+    font-size: 10px;
+  }
+  main .Feature .projects .project-3 .content a .p3 {
+    font-size: 13px;
+    margin-left: 100px;
+  }
+  main .our-clients .content {
+    top: 547%;
+  }
+  main .our-clients h2 {
+    font-size: 14px;
+    margin-right: 60px;
+  }
+  main .our-clients p {
+    font-size: 10px;
+    margin-right: 60px;
+    margin-top: -30px;
+  }
+  main .our-clients .client-1 {
+    display: none;
+  }
+  main .our-clients .client-1-details {
+    position: absolute;
+    margin-top: 5%;
+    left: 50%;
+  }
+  main .our-clients .client-1-details img {
+    width: 30px;
+    height: 30px;
+  }
+  main .our-clients .client-1-details p {
+    font-size: 8px;
+  }
+  main .our-clients .client-2 {
+    display: none;
+  }
+  main .our-clients .client-2-details {
+    position: absolute;
+    margin-top: 5%;
+    left: 10%;
+  }
+  main .our-clients .client-2-details img {
+    width: 30px;
+    height: 30px;
+  }
+  main .our-clients .client-2-details p {
+    font-size: 8px;
+  }
+  main footer {
+    margin-top: 20px;
+  }
+  main footer .partner1 {
+    margin-left: 20px;
+  }
+  main footer .partner1 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner2 {
+    margin-left: 100px;
+    margin-top: -30px;
+  }
+  main footer .partner2 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner3 {
+    margin-left: 180px;
+    margin-top: -30px;
+  }
+  main footer .partner3 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner4 {
+    margin-left: 260px;
+    margin-top: -30px;
+  }
+  main footer .partner4 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner5 {
+    margin-left: 70px;
+    margin-top: 20px;
+  }
+  main footer .partner5 img {
+    width: 30px;
+    height: 30px;
+  }
+  main footer .partner6 {
+    margin-left: 140px;
+    margin-top: -30px;
+  }
+  main footer .partner6 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner7 {
+    margin-left: 220px;
+    margin-top: -30px;
+  }
+  main footer .partner7 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .copy-right hr {
+    background-color: #ededed;
+    margin-bottom: 20px;
+  }
+  main footer .copy-right p {
+    color: #848484;
+    font-size: 13px;
+  }
+}
+@media (min-width: 421px) and (max-width: 770px) and (max-height: 1024px) {
+  main .slider .carousel-inner .carousel-item .slider-content {
+    position: absolute;
+    width: 60%;
+    left: 50%;
+    top: 20%;
+    z-index: 1;
+    color: #ffffff;
+    margin-left: -28%;
+    text-align: center;
+    font-size: 30px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content h2 {
+    font-size: 30px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content p {
+    font-size: 20px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content .member-btn {
+    width: 150px;
+    height: 60px;
+    font-size: 14px;
+  }
+  main .our-work {
+    margin-bottom: 100px;
+  }
+  main .our-work img {
+    width: 50px;
+    height: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+  main .our-work h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #515151;
+  }
+  main .our-work p {
+    font-size: 14px;
+    color: #919191;
+  }
+  main .tabs .tab1 {
+    padding-bottom: 20px;
+    width: 31%;
+  }
+  main .tabs .tab1 button {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  main .tabs .tab1 span {
+    font-size: 20px;
+  }
+  main .tabs .tab2 {
+    padding-bottom: 20px;
+    width: 35%;
+  }
+  main .tabs .tab2 button {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  main .tabs .tab2 span {
+    font-size: 20px;
+  }
+  main .tabs .tab3 {
+    padding-bottom: 20px;
+    width: 34%;
+  }
+  main .tabs .tab3 button {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  main .tabs .tab3 span {
+    font-size: 20px;
+  }
+  main .tabs .content img {
+    margin-left: 100px;
+    margin-top: 40px;
+  }
+  main .tabs .content h4 {
+    margin: 35px 0 30px 10px;
+  }
+  main .tabs .content p {
+    font-size: 14px;
+    margin: 0 0 100px 10px;
+    color: #919191;
+  }
+  main .find .Find-Properties .img1 {
+    margin: 20px 0 0 -10px;
+  }
+  main .find .Find-Properties h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Properties p {
+    font-size: 14px;
+  }
+  main .find .Find-Properties .btn4 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .find .Find-Buyers .img2 {
+    margin: 40px 0 0 -10px;
+  }
+  main .find .Find-Buyers h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Buyers p {
+    font-size: 14px;
+  }
+  main .find .Find-Buyers .btn5 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .Feature h2 {
+    font-size: 23px;
+  }
+  main .Feature p {
+    font-size: 13px;
+    margin-bottom: 40px;
+  }
+  main .Feature .btn6 {
+    padding: 10px 10px 10px 10px;
+    font-size: 13px;
+    margin-left: 20px;
+    float: right;
+    margin-top: -10px;
+  }
+  main .Feature .projects .project-1 {
+    left: 1%;
+  }
+  main .Feature .projects .project-1 .box {
+    height: 25%;
+    width: 100%;
+  }
+  main .Feature .projects .project-1 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-1 .content {
+    margin-top: -6px;
+    width: 100%;
+  }
+  main .Feature .projects .project-1 .content h5 {
+    font-size: 12px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-1 .content p {
+    font-size: 8px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-1 .content .progress {
+    margin-top: -15px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-1 .content .p1, main .Feature .projects .project-1 .content .p2 {
+    font-size: 8px;
+  }
+  main .Feature .projects .project-1 .content a .p3 {
+    font-size: 12px;
+    margin-left: 50px;
+  }
+  main .Feature .projects .project-2 {
+    left: 1%;
+  }
+  main .Feature .projects .project-2 .box {
+    height: 25%;
+    width: 100%;
+  }
+  main .Feature .projects .project-2 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-2 .content {
+    margin-top: -6px;
+    width: 100%;
+  }
+  main .Feature .projects .project-2 .content h5 {
+    font-size: 12px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-2 .content p {
+    font-size: 8px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-2 .content .progress {
+    margin-top: -15px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-2 .content .p1, main .Feature .projects .project-2 .content .p2 {
+    font-size: 8px;
+  }
+  main .Feature .projects .project-2 .content a .p3 {
+    font-size: 12px;
+    margin-left: 50px;
+  }
+  main .Feature .projects .project-3 {
+    left: 1%;
+  }
+  main .Feature .projects .project-3 .box {
+    height: 25%;
+    width: 100%;
+  }
+  main .Feature .projects .project-3 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-3 .content {
+    margin-top: -6px;
+    width: 100%;
+  }
+  main .Feature .projects .project-3 .content h5 {
+    font-size: 12px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-3 .content p {
+    font-size: 8px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-3 .content .progress {
+    margin-top: -15px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-3 .content .p1, main .Feature .projects .project-3 .content .p2 {
+    font-size: 8px;
+  }
+  main .Feature .projects .project-3 .content a .p3 {
+    font-size: 12px;
+    margin-left: 50px;
+  }
+  main .our-clients .content {
+    top: 265%;
+  }
+  main .our-clients h2 {
+    font-size: 25px;
+    margin-right: 60px;
+  }
+  main .our-clients p {
+    font-size: 14px;
+    margin-right: 60px;
+    margin-top: -30px;
+    margin-bottom: 30px;
+  }
+  main .our-clients .client-1 {
+    margin-top: 0;
+    width: 30%;
+    padding: 10px;
+  }
+  main .our-clients .client-1 .client-1-content h4 {
+    font-size: 15px;
+  }
+  main .our-clients .client-1 .client-1-content p {
+    font-size: 8px;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  main .our-clients .client-1-details {
+    position: absolute;
+    margin-top: 18%;
+    left: 58%;
+  }
+  main .our-clients .client-1-details img {
+    width: 40px;
+    height: 40px;
+  }
+  main .our-clients .client-1-details p {
+    font-size: 10px;
+  }
+  main .our-clients .client-2 {
+    margin-top: 0;
+    width: 30%;
+    padding: 10px;
+  }
+  main .our-clients .client-2 .client-2-content h4 {
+    font-size: 15px;
+  }
+  main .our-clients .client-2 .client-2-content p {
+    font-size: 8px;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  main .our-clients .client-2 .arrow-down-2::after {
+    left: 18%;
+  }
+  main .our-clients .client-2-details {
+    position: absolute;
+    margin-top: 18%;
+    left: 11%;
+  }
+  main .our-clients .client-2-details img {
+    width: 40px;
+    height: 40px;
+  }
+  main .our-clients .client-2-details p {
+    font-size: 10px;
+  }
+  main footer {
+    margin-top: 30px;
+  }
+  main footer .partner1 {
+    margin-left: 70px;
+    margin-bottom: 15px;
+  }
+  main footer .partner1 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner2 {
+    margin-left: -20px;
+  }
+  main footer .partner2 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner3 {
+    margin-left: -26px;
+  }
+  main footer .partner3 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner4 {
+    margin-left: -24px;
+  }
+  main footer .partner4 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner5 {
+    margin-left: 161px;
+  }
+  main footer .partner5 img {
+    width: 30px;
+    height: 30px;
+  }
+  main footer .partner6 {
+    margin-left: -27px;
+  }
+  main footer .partner6 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner7 {
+    margin-left: -15px;
+  }
+  main footer .partner7 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .copy-right hr {
+    background-color: #ededed;
+    margin-bottom: 20px;
+  }
+  main footer .copy-right p {
+    color: #848484;
+    font-size: 13px;
+  }
+}
+@media (min-width: 771px) and (max-width: 800px) and (max-height: 1280px) {
+  main .slider .carousel-inner .carousel-item .slider-content {
+    position: absolute;
+    width: 60%;
+    left: 50%;
+    top: 20%;
+    z-index: 1;
+    color: #ffffff;
+    margin-left: -28%;
+    text-align: center;
+    font-size: 30px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content h2 {
+    font-size: 30px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content p {
+    font-size: 20px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content .member-btn {
+    width: 150px;
+    height: 60px;
+    font-size: 14px;
+  }
+  main .our-work {
+    margin-bottom: 100px;
+  }
+  main .our-work img {
+    width: 50px;
+    height: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+  main .our-work h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #515151;
+  }
+  main .our-work p {
+    font-size: 14px;
+    color: #919191;
+  }
+  main .tabs .tab1 {
+    padding-bottom: 20px;
+    width: 31%;
+  }
+  main .tabs .tab1 button {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  main .tabs .tab1 span {
+    font-size: 20px;
+  }
+  main .tabs .tab2 {
+    padding-bottom: 20px;
+    width: 35%;
+  }
+  main .tabs .tab2 button {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  main .tabs .tab2 span {
+    font-size: 20px;
+  }
+  main .tabs .tab3 {
+    padding-bottom: 20px;
+    width: 34%;
+  }
+  main .tabs .tab3 button {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  main .tabs .tab3 span {
+    font-size: 20px;
+  }
+  main .tabs .content img {
+    margin-left: 100px;
+    margin-top: 40px;
+  }
+  main .tabs .content h4 {
+    margin: 35px 0 30px 10px;
+  }
+  main .tabs .content p {
+    font-size: 14px;
+    margin: 0 0 100px 10px;
+    color: #919191;
+  }
+  main .find .Find-Properties .img1 {
+    margin: 20px 0 0 -10px;
+  }
+  main .find .Find-Properties h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Properties p {
+    font-size: 14px;
+  }
+  main .find .Find-Properties .btn4 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .find .Find-Buyers .img2 {
+    margin: 40px 0 0 -10px;
+  }
+  main .find .Find-Buyers h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Buyers p {
+    font-size: 14px;
+  }
+  main .find .Find-Buyers .btn5 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .Feature h2 {
+    font-size: 23px;
+  }
+  main .Feature p {
+    font-size: 13px;
+    margin-bottom: 40px;
+  }
+  main .Feature .btn6 {
+    padding: 10px 10px 10px 10px;
+    font-size: 13px;
+    margin-left: 20px;
+    float: right;
+    margin-top: -10px;
+  }
+  main .Feature .projects .project-1 {
+    left: 1%;
+  }
+  main .Feature .projects .project-1 .box {
+    height: 25%;
+    width: 100%;
+  }
+  main .Feature .projects .project-1 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-1 .content {
+    margin-top: -6px;
+    width: 100%;
+  }
+  main .Feature .projects .project-1 .content h5 {
+    font-size: 12px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-1 .content p {
+    font-size: 8px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-1 .content .progress {
+    margin-top: -15px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-1 .content .p1, main .Feature .projects .project-1 .content .p2 {
+    font-size: 8px;
+  }
+  main .Feature .projects .project-1 .content a .p3 {
+    font-size: 12px;
+    margin-left: 50px;
+  }
+  main .Feature .projects .project-2 {
+    left: 1%;
+  }
+  main .Feature .projects .project-2 .box {
+    height: 25%;
+    width: 100%;
+  }
+  main .Feature .projects .project-2 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-2 .content {
+    margin-top: -6px;
+    width: 100%;
+  }
+  main .Feature .projects .project-2 .content h5 {
+    font-size: 12px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-2 .content p {
+    font-size: 8px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-2 .content .progress {
+    margin-top: -15px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-2 .content .p1, main .Feature .projects .project-2 .content .p2 {
+    font-size: 8px;
+  }
+  main .Feature .projects .project-2 .content a .p3 {
+    font-size: 12px;
+    margin-left: 50px;
+  }
+  main .Feature .projects .project-3 {
+    left: 1%;
+  }
+  main .Feature .projects .project-3 .box {
+    height: 25%;
+    width: 100%;
+  }
+  main .Feature .projects .project-3 .box button {
+    width: 100px;
+    font-size: 10px;
+    top: 20%;
+    left: 70%;
+  }
+  main .Feature .projects .project-3 .content {
+    margin-top: -6px;
+    width: 100%;
+  }
+  main .Feature .projects .project-3 .content h5 {
+    font-size: 12px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-3 .content p {
+    font-size: 8px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-3 .content .progress {
+    margin-top: -15px;
+    margin-left: 25px;
+  }
+  main .Feature .projects .project-3 .content .p1, main .Feature .projects .project-3 .content .p2 {
+    font-size: 8px;
+  }
+  main .Feature .projects .project-3 .content a .p3 {
+    font-size: 12px;
+    margin-left: 50px;
+  }
+  main .our-clients .content {
+    top: 216%;
+  }
+  main .our-clients h2 {
+    font-size: 25px;
+    margin-right: 60px;
+  }
+  main .our-clients p {
+    font-size: 14px;
+    margin-right: 60px;
+    margin-top: -30px;
+    margin-bottom: 30px;
+  }
+  main .our-clients .client-1 {
+    margin-top: 0;
+    width: 30%;
+    padding: 10px;
+  }
+  main .our-clients .client-1 .client-1-content h4 {
+    font-size: 15px;
+  }
+  main .our-clients .client-1 .client-1-content p {
+    font-size: 8px;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  main .our-clients .client-1-details {
+    position: absolute;
+    margin-top: 18%;
+    left: 58%;
+  }
+  main .our-clients .client-1-details img {
+    width: 40px;
+    height: 40px;
+  }
+  main .our-clients .client-1-details p {
+    font-size: 10px;
+  }
+  main .our-clients .client-2 {
+    margin-top: 0;
+    width: 30%;
+    padding: 10px;
+  }
+  main .our-clients .client-2 .client-2-content h4 {
+    font-size: 15px;
+  }
+  main .our-clients .client-2 .client-2-content p {
+    font-size: 8px;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  main .our-clients .client-2 .arrow-down-2::after {
+    left: 18%;
+  }
+  main .our-clients .client-2-details {
+    position: absolute;
+    margin-top: 18%;
+    left: 11%;
+  }
+  main .our-clients .client-2-details img {
+    width: 40px;
+    height: 40px;
+  }
+  main .our-clients .client-2-details p {
+    font-size: 10px;
+  }
+  main footer {
+    margin-top: 30px;
+  }
+  main footer .partner1 {
+    margin-left: 70px;
+    margin-bottom: 15px;
+  }
+  main footer .partner1 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner2 {
+    margin-left: -20px;
+  }
+  main footer .partner2 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner3 {
+    margin-left: -26px;
+  }
+  main footer .partner3 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner4 {
+    margin-left: -24px;
+  }
+  main footer .partner4 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner5 {
+    margin-left: 161px;
+  }
+  main footer .partner5 img {
+    width: 30px;
+    height: 30px;
+  }
+  main footer .partner6 {
+    margin-left: -27px;
+  }
+  main footer .partner6 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .partner7 {
+    margin-left: -15px;
+  }
+  main footer .partner7 img {
+    width: 60px;
+    height: 30px;
+  }
+  main footer .copy-right hr {
+    background-color: #ededed;
+    margin-bottom: 20px;
+  }
+  main footer .copy-right p {
+    color: #848484;
+    font-size: 13px;
+  }
+}
+@media (min-width: 1441px) and (max-width: 1920px) and (max-height: 1080px) {
+  main .slider .carousel-inner .carousel-item .slider-content {
+    position: absolute;
+    width: 60%;
+    left: 50%;
+    top: 35%;
+    z-index: 1;
+    color: #ffffff;
+    margin-left: -31%;
+    text-align: center;
+    font-size: 30px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content h2 {
+    font-size: 40px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content p {
+    font-size: 25px;
+  }
+  main .slider .carousel-inner .carousel-item .slider-content .member-btn {
+    width: 200px;
+    height: 80px;
+    font-size: 16px;
+  }
+  main .slider .carousel-control-next {
+    margin-right: 300px;
+  }
+  main .slider .carousel-control-prev {
+    margin-left: 1250px;
+  }
+  main .our-work {
+    margin-bottom: 100px;
+  }
+  main .our-work img {
+    width: 70px;
+    height: 70px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+  }
+  main .our-work h3 {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #515151;
+  }
+  main .our-work p {
+    font-size: 16px;
+    color: #919191;
+  }
+  main .tabs .tab1 {
+    padding-bottom: 20px;
+    width: 31%;
+  }
+  main .tabs .tab1 button {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  main .tabs .tab1 span {
+    font-size: 20px;
+  }
+  main .tabs .tab2 {
+    padding-bottom: 20px;
+    width: 35%;
+  }
+  main .tabs .tab2 button {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  main .tabs .tab2 span {
+    font-size: 20px;
+  }
+  main .tabs .tab3 {
+    padding-bottom: 20px;
+    width: 34%;
+  }
+  main .tabs .tab3 button {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin-left: -10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  main .tabs .tab3 span {
+    font-size: 20px;
+  }
+  main .tabs .content img {
+    margin-left: 100px;
+    margin-top: 40px;
+  }
+  main .tabs .content h4 {
+    margin: 35px 0 30px 10px;
+  }
+  main .tabs .content p {
+    font-size: 14px;
+    margin: 0 0 100px 10px;
+    color: #919191;
+  }
+  main .find .Find-Properties .img1 {
+    margin: 20px 0 0 30px;
+  }
+  main .find .Find-Properties h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Properties p {
+    font-size: 14px;
+  }
+  main .find .Find-Properties .btn4 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .find .Find-Buyers .img2 {
+    margin: 40px 0 0 30px;
+  }
+  main .find .Find-Buyers h4 {
+    margin-top: 18px;
+    font-size: 20px;
+  }
+  main .find .Find-Buyers p {
+    font-size: 14px;
+  }
+  main .find .Find-Buyers .btn5 {
+    padding: 10px 15px 10px 15px;
+    font-size: 13px;
+  }
+  main .Feature h2 {
+    font-size: 25px;
+    margin-left: -30px;
+  }
+  main .Feature p {
+    font-size: 14px;
+    margin-bottom: 40px;
+    margin-left: -30px;
+  }
+  main .Feature .btn6 {
+    padding: 10px 10px 10px 10px;
+    font-size: 13px;
+    margin-right: 40px;
+    float: right;
+    margin-top: -10px;
+  }
+  main .Feature .projects .project-1 {
+    left: -3%;
+  }
+  main .Feature .projects .project-1 .box {
+    height: 45%;
+    width: 100%;
+  }
+  main .Feature .projects .project-1 .box button {
+    width: 120px;
+    font-size: 12px;
+    top: 37%;
+    left: 85%;
+  }
+  main .Feature .projects .project-1 .content {
+    margin-top: -6px;
+    width: 100%;
+  }
+  main .Feature .projects .project-1 .content h5 {
+    font-size: 15px;
+  }
+  main .Feature .projects .project-1 .content p {
+    font-size: 12px;
+  }
+  main .Feature .projects .project-1 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-1 .content .p1, main .Feature .projects .project-1 .content .p2 {
+    font-size: 11px;
+  }
+  main .Feature .projects .project-1 .content a .p3 {
+    font-size: 13px;
+    margin-left: 180px;
+  }
+  main .Feature .projects .project-2 {
+    left: -3%;
+  }
+  main .Feature .projects .project-2 .box {
+    height: 45%;
+    width: 100%;
+  }
+  main .Feature .projects .project-2 .box button {
+    width: 120px;
+    font-size: 12px;
+    top: 37%;
+    left: 85%;
+  }
+  main .Feature .projects .project-2 .content {
+    margin-top: -6px;
+    width: 100%;
+  }
+  main .Feature .projects .project-2 .content h5 {
+    font-size: 15px;
+  }
+  main .Feature .projects .project-2 .content p {
+    font-size: 12px;
+  }
+  main .Feature .projects .project-2 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-2 .content .p1, main .Feature .projects .project-2 .content .p2 {
+    font-size: 11px;
+  }
+  main .Feature .projects .project-2 .content a .p3 {
+    font-size: 13px;
+    margin-left: 180px;
+  }
+  main .Feature .projects .project-3 {
+    left: -3%;
+  }
+  main .Feature .projects .project-3 .box {
+    height: 45%;
+    width: 100%;
+  }
+  main .Feature .projects .project-3 .box button {
+    width: 120px;
+    font-size: 12px;
+    top: 37%;
+    left: 85%;
+  }
+  main .Feature .projects .project-3 .content {
+    margin-top: -6px;
+    width: 100%;
+  }
+  main .Feature .projects .project-3 .content h5 {
+    font-size: 15px;
+  }
+  main .Feature .projects .project-3 .content p {
+    font-size: 12px;
+  }
+  main .Feature .projects .project-3 .content .progress {
+    margin-top: -15px;
+  }
+  main .Feature .projects .project-3 .content .p1, main .Feature .projects .project-3 .content .p2 {
+    font-size: 11px;
+  }
+  main .Feature .projects .project-3 .content a .p3 {
+    font-size: 13px;
+    margin-left: 180px;
+  }
+  main .our-clients .content {
+    top: 320%;
+    left: 45%;
+  }
+  main .our-clients h2 {
+    font-size: 35px;
+    margin-right: 60px;
+  }
+  main .our-clients p {
+    font-size: 16px;
+    margin-right: 60px;
+    margin-top: -30px;
+    margin-bottom: 120px;
+  }
+  main .our-clients .client-1 {
+    margin-top: 0;
+    width: 30%;
+    padding: 10px;
+  }
+  main .our-clients .client-1 .client-1-content h4 {
+    font-size: 20px;
+  }
+  main .our-clients .client-1 .client-1-content p {
+    font-size: 11px;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  main .our-clients .client-1 .arrow-down-1::after {
+    left: 69%;
+  }
+  main .our-clients .client-1-details {
+    position: absolute;
+    margin-top: 12%;
+    left: 64%;
+  }
+  main .our-clients .client-1-details img {
+    width: 50px;
+    height: 50px;
+  }
+  main .our-clients .client-1-details p {
+    font-size: 12px;
+  }
+  main .our-clients .client-2 {
+    margin-top: 0;
+    width: 30%;
+    padding: 10px;
+  }
+  main .our-clients .client-2 .client-2-content h4 {
+    font-size: 20px;
+  }
+  main .our-clients .client-2 .client-2-content p {
+    font-size: 11px;
+    text-align: center;
+    margin-bottom: 2px;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  main .our-clients .client-2 .arrow-down-2::after {
+    left: 14%;
+  }
+  main .our-clients .client-2-details {
+    position: absolute;
+    margin-top: 12%;
+    left: 9%;
+  }
+  main .our-clients .client-2-details img {
+    width: 50px;
+    height: 50px;
+  }
+  main .our-clients .client-2-details p {
+    font-size: 12px;
+  }
+  main footer {
+    margin-top: 60px;
+  }
+  main footer .partner1 {
+    margin-left: -50px;
+  }
+  main footer .partner2, main footer .partner3 {
+    margin-left: 80px;
+  }
+  main footer .partner4 {
+    margin-left: 100px;
+  }
+  main footer .partner5 {
+    margin-left: 30px;
+  }
+  main footer .partner6 {
+    margin-left: 10px;
+  }
+  main footer .partner7 {
+    margin-left: 120px;
+  }
+  main footer .copy-right hr {
+    background-color: #ededed;
+    margin-bottom: 20px;
+  }
+  main footer .copy-right p {
+    color: #848484;
+    font-size: 15px;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */
